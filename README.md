@@ -2,7 +2,6 @@
 - 👀 I’m interested in Software Development (FullStack-Developer with focus on back-end), App-Development.
 - 🌱 I’m currently learning Flutter and ReactJs.
 - 💞️ I’m looking to collaborate on nothing rn at the moment.
-- 📫 How to reach me: alexis.florian.pott@gmail.com
 
 <!---
 iPott1337i/iPott1337i is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
